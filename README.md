@@ -16,6 +16,22 @@ Sou um entusiasta da tecnologia e aqui você pode acompanhar alguns dos meus pro
 
 ---
 
+## 🌱 Meu trabalho atualmente  
+Sou Coordenador/Analista em uma empresa de logística. Minhas principais atividades incluem:  
+
+- **Análise de Dados:** Analiso processos, desenho fluxos de informação e defino métricas importantes para o negócio.  
+- **Automações:** Extraio bases do sistema utilizando RPA.  
+- **ETL:** Realizo o tratamento necessário nas bases de dados e crio dashboards no Looker Studio para visualização estratégica.  
+- **Micro Serviços para Web:** Desenvolvo micro sistemas para facilitar e otimizar os processos internos.  
+- **Web Scraping:** Extraio dados de sites de clientes para identificar itens principais e abastecer o estoque de forma eficiente.  
+
+Além disso, sou responsável por:  
+- Treinar e desenvolver pessoas.  
+- Tomar decisões relacionadas a processos operacionais.  
+- Atender solicitações de clientes e da gerência.  
+
+---
+
 ## 🌱 O que estou aprendendo atualmente?  
 Estou sempre em busca de novos conhecimentos! Atualmente estou explorando:  
 - Desenvolvimento em Docker e AWS  
