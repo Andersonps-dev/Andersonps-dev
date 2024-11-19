@@ -25,8 +25,8 @@ Estou sempre em busca de novos conhecimentos! Atualmente estou explorando:
 
 ## 📈 Estatísticas do GitHub  
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andersonps-dev&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonps-dev&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </div>
 
 ---
