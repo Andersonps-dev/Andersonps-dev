@@ -10,16 +10,16 @@ Sou um entusiasta da tecnologia e aqui você pode acompanhar alguns dos meus pro
 - **Frameworks:** Selenium, Scrapy, Streamlit, Django, Bootstrap
 - **Bibliotecas:** Pandas, Numpy, Os, Matplotlib, Bs4, Requests
 - **Ferramentas:** Git, VS Code, Power BI, Looker Studio, Docker
+- **Outras Ferramentas:** Excel, Google Sheets, Google App Script, AppSheet
 - **Banco de Dados:** MySQL, Postgress, Sqlite3
 - **Ênfase:** Análise de Dados, ETL, Automações, Micros Serviços para Web, Webscraping
-- **Outras Ferramentas:** Excel, Google Sheets, Google App Script, AppSheet
 
 ---
 
 ## 🌱 O que estou aprendendo atualmente?  
 Estou sempre em busca de novos conhecimentos! Atualmente estou explorando:  
 - Desenvolvimento em Docker e AWS  
-- Mais temas avançados de webscraping  
+- Aprimorando temas avançados em webscraping  
 
 ---
 
