@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Anderson
 
 Bem-vindo(a) ao meu perfil no GitHub! 🚀  
-Sou um entusiasta da tecnologia e aqui você consegue acompanhar algums dos meus projetos.
+Sou um entusiasta da tecnologia e aqui você pode acompanhar alguns dos meus projetos.
 
 ---
 
