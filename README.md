@@ -56,7 +56,7 @@ Estou sempre em busca de novos conhecimentos! Atualmente estou explorando:
 ---
 
 ## 🤝 Vamos nos conectar?  
-- **LinkedIn:** [https://www.linkedin.com/in/anderson-pereira-santos](https://linkedin.com/in/seu-usuario)  
+- **LinkedIn:** [https://www.linkedin.com/in/anderson-pereira-santos-b356a4261/](https://linkedin.com/in/seu-usuario)  
 - **E-mail:** [aaandersonpereira45265@gmail.com](mailto:seu-email@dominio.com)  
 
 Sinta-se à vontade para explorar meus projetos e colaborar comigo 🚀
